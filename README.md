@@ -5,7 +5,9 @@
 
 This is a browser based application for taking, storing and managing notes. 
 
-![Here is a screenshot of the application](./img/full-site-screenshot.png)
+https://jkw-note-taker.herokuapp.com/
+
+[![Here is a screenshot of the application](./img/full-site-screenshot.png)](https://jkw-note-taker.herokuapp.com/)
 
   ## Table Of Contents
 
